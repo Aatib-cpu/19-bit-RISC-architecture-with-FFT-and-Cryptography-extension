@@ -1,4 +1,3 @@
-# recruit-vicharak
 Design of RISC based 19-bit architecture for basic integer type application. it comprises a detailed instruction set, including 5 stage pipeline,16-bit register file, byte addressable Instruction and Data Memory and ALU. All Hazards are mitigated through “Bubble Insertion”, “Forwarding Unit” and “Pipeline Management unit”. Some specialized instruction for encryption and decryption are also introduced in it.
 
 Max Delay: At ALU stage (Specific on Feedback checking for memoty based data hazard): 40.361 ns
